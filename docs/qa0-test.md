@@ -2,6 +2,6 @@
 
 This file validates the auto-verify workflow.
 
-Created: 2026-01-14T15:15:45Z
+Updated: 2026-01-14T16:27:49Z
 
-Updated to trigger CI rerun.
+Testing full GitHub Actions → crane-relay → label transition flow.
